@@ -1,0 +1,10 @@
+.task-v{
+  display: flex;
+  flex-direction: row;
+}
+.task-x{
+  display: flex;
+  flex-direction: row;
+  text-decoration-line: line-through;
+
+}
