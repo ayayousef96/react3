@@ -1,0 +1,17 @@
+.red {
+  background-color: red;
+  width: 3rem;
+  height: 2rem;
+  margin-top: 3%;
+  margin-left: 5%;
+  text-align: center;
+}
+
+.green {
+  background-color: green;
+  width: 3rem;
+  height: 2rem;
+  margin-top: 3%;
+  margin-left: 5%;
+  text-align: center;
+}
